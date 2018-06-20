@@ -1,8 +1,6 @@
 ## Welcome to ATS on GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/lochmanpaul/ATS/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This site is a front end for development work by All Things Sound.
 
 ### Markdown
 
