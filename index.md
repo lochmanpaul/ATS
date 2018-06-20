@@ -2,11 +2,7 @@
 
 This site is a front end for development work by All Things Sound.
 
-```
-
 ![ATS Banner](atsbanner.png)
-
-```
 
 ### Markdown
 
