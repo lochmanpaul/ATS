@@ -10,4 +10,4 @@ ATS has only just acquired a GitHub account but has previously completed a coupl
 
 This is a simple, browser-based application designed to help the user follow a daily bible reading routine that will cover the entire Bible in one year, or spread over a three-year period. It includes daily links to popular, online versions of the Bible and to additional resources such as Bible Dictionaries, Commentaries and an Atlas.
 
-You can see this project [here](https://github.com/lochmanpaul/bible-readings)
+You can see this project [here](https://github.com/lochmanpaul/bible_readings).
