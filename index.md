@@ -4,7 +4,7 @@ This site is a front end for development work by All Things Sound.
 
 ![ATS Banner](atsbanner.png)
 
-ATS has only just acquired a GitHub account but has previously completed a couple of coding projects. This page can, therefore, serve as an introduction to what is already available.
+ATS has only just acquired a GitHub account but has previously completed a couple of coding projects. This page can, therefore, serve as an introduction to what is already available. If you're interested, you can also see our [main website](http://www.allthingssound.co.uk) which describes the main work in which we're involved.
 
 ### Daily Bible Readings
 
