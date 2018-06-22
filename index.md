@@ -4,34 +4,10 @@ This site is a front end for development work by All Things Sound.
 
 ![ATS Banner](atsbanner.png)
 
-### Markdown
+ATS has only just acquired a GitHub account but has previously completed a couple of coding projects. This page can, therefore, serve as an introduction to what is already available.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Daily Bible Readings
 
-```markdown
-Syntax highlighted code block
+This is a simple, browser-based application designed to help the user follow a daily bible reading routine that will cover the entire Bible in one year, or spread over a three-year period. It includes daily links to popular, online versions of the Bible and to additional resources such as Bible Dictionaries, Commentaries and an Atlas.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lochmanpaul/ATS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can see this project [here](https://github.com/lochmanpaul/bible-readings)
